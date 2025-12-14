@@ -20,7 +20,7 @@
       "js": "node --expose-gc --max-old-space-size=280"
     }
   },
-  keywords": [
+  "keywords": [
     "whatsapp-bot"
   ],
   "author": "supreme",
