@@ -40,6 +40,7 @@
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
+    "chokidar": "^3.5.3",
     "dotenv": "^16.4.5",
     "events": "^3.3.0",
     "file-type": "^16.5.4",
